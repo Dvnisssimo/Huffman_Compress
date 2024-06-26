@@ -34,3 +34,10 @@
 > ./Huffman_Compress decode test.zip test.txt
 
 Готово!
+
+## Компиляция .exe
+1) Устанавливаем Cygwin64 Terminal с пакетами gcc
+2) Открываем этот терминал и переходим в директорию с нашем проектом
+> cd C:/Users/Dvnissimo/Desktop/Huffman_Compress
+3) Указываем команду для запуска файла компиляции
+> bash compile.sh
